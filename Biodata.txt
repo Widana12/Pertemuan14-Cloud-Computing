@@ -1,2 +1,4 @@
 Nama  : I Putu Adi Widana
 Nim   : 21101142
+Matkul: Cloud Computing
+Jam   : 19:50-22:20
